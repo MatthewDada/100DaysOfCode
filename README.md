@@ -4,4 +4,4 @@
 
 #### Nothing too serious.
 
-#### Day 9 missing--it was basically a day to learn about debugging and how to improve codes.
+#### Day 9 and 10 missing--these days were basically used to learn about debugging and how to improve codes.
