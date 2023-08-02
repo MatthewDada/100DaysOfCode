@@ -10,7 +10,6 @@ word_length = len(chosen_word)
 end_of_game = False
 lives = 6
 
-
 print(hangman_art.logo)
 #print(f'Pssst, the solution is {chosen_word}.')
 
