@@ -19,7 +19,7 @@ for _ in range(word_length):
 
 while not end_of_game:
     guess = input("Guess a letter: ").lower()
-    os.system('cls||clear')
+    os.system('cls')
 
     for position in range(word_length):
         letter = chosen_word[position]
